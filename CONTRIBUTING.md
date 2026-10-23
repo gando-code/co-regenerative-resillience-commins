@@ -1,0 +1,2 @@
+# Contributing
+Open an issue describing the user problem, baseline, evidence, and measurable acceptance test. Use synthetic data in public contributions. Run `python -m unittest discover -s tests -v`. Submit small pull requests. Respect contributors and disclose conflicts of interest. No biological release protocols, medical treatment claims, or unsupported physics claims belong in the implementation.

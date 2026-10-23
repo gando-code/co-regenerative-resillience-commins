@@ -1,0 +1,5 @@
+[
+  {"asset": "community-backup", "severity": 4, "observations": ["pass", "fail"]},
+  {"asset": "water-sensor", "severity": 5, "observations": ["unknown"]},
+  {"asset": "office-router", "severity": 2, "observations": ["pass"]}
+]

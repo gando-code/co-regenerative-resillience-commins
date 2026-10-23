@@ -1,0 +1,2 @@
+# Security
+This is an experimental local tool, not a safety-critical controller. It neither authenticates evidence nor verifies recovery. Do not publish personal, clinical, sensitive infrastructure, or sponsor-confidential data. For vulnerabilities, use GitHub private vulnerability reporting when the maintainer enables it; otherwise request a private channel without disclosing exploit details publicly. File hashes detect byte changes only against an independently trusted reference.
